@@ -216,4 +216,4 @@ Ask questions about the uploaded documents.
 
 ---
 
-Developed with ❤️ by the AI Engineering Team.
+Developed with ❤️ by me.
